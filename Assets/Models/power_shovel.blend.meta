@@ -3,7 +3,52 @@ guid: b759db7568beeff49b3582d3b9dfcbdc
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm_0
+    second: {fileID: 2100000, guid: f802ddcd445547f47bbc6b8c277df65f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm_1
+    second: {fileID: 2100000, guid: df0abf5af783c9a4bb21d290f8fa6dbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: f38519df1ccd79e43b1509582bb8679e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cab_Base
+    second: {fileID: 2100000, guid: 24011a53570d14041aaaf15a26a13ccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color Grid
+    second: {fileID: 2100000, guid: c64e7a2a98d412742adfbe5e22772c84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shovel
+    second: {fileID: 2100000, guid: a725db05c33a0184cbd62e785bc3498e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tread Guide
+    second: {fileID: 2100000, guid: b5efb6b5f65bbe0449259d8fd8f57dc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tread Wheel
+    second: {fileID: 2100000, guid: c609fdb591c8de6478cde9893126e950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Treads_Base
+    second: {fileID: 2100000, guid: 8292bd2b41181e445bdf708482c3b951, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
