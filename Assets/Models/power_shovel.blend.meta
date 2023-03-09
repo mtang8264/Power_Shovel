@@ -22,6 +22,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Cab
+    second: {fileID: 2100000, guid: 24011a53570d14041aaaf15a26a13ccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Cab_Base
     second: {fileID: 2100000, guid: 24011a53570d14041aaaf15a26a13ccd, type: 2}
   - first:
@@ -44,6 +49,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Tread Wheel
     second: {fileID: 2100000, guid: c609fdb591c8de6478cde9893126e950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Treads
+    second: {fileID: 2100000, guid: 8292bd2b41181e445bdf708482c3b951, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
